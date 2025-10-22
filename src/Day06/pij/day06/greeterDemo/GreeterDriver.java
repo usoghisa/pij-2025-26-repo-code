@@ -11,7 +11,7 @@ public class GreeterDriver {
         g = new NoTagFriendlyGreeter();
         g.greet();
 
-        g = new GermanGreeter();
+        g = new FrenchGreeter();
         g.greet();
         //g = new NonExtendedGermanGreeter()
 
