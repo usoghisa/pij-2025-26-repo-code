@@ -4,6 +4,6 @@ package pij.day06.greeterDemo;
 // cannot be used where Greeter is expected
 public class NonExtendedGermanGreeter {
     public void greet() {
-        System.out.println("(In German) Hello");
+        System.out.println("Hallo");
     }
 }
